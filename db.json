@@ -1,0 +1,428 @@
+{
+    "titleHeaders": [
+        {
+            "id": "1",
+            "name": "Bài Hát",
+            "item": [
+                {
+                    "id": 1,
+                    "name": "Việt Nam",
+                    "specific" : [
+                            {
+                                "id": 1,
+                                "name": "Nhạc Trẻ"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Trữ Tình "
+                            },
+                            {
+                                "id": 3,
+                                "name": "Remix Việt"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Rap Việt "
+                            },
+                            {
+                                "id": 5,
+                                "name": "Tiền Chiến"
+                            }
+                        ]
+                },
+                {
+                    "id": 2,
+                    "name": "Âu Mỹ",
+                    "specific" : [
+                            {
+                                "id": 1,
+                                "name": "Pop"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Rock"
+                            },
+                            {
+                                "id": 3,
+                                "name": "Dance"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Country"
+                            },
+                            {
+                                "id": 5,
+                                "name": "Latin"
+                            }
+                        ]
+                },
+                {
+                    "id": 3,
+                    "name": "Châu Á",
+                    "specific" : [
+                            {
+                                "id": 1,
+                                "name": "Nhạc Hàn "
+                            },
+                            {
+                                "id": 2,
+                                "name": "Nhạc Hoa "
+                            },
+                            {
+                                "id": 3,
+                                "name": "Nhạc Thái"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Nhạc Campuchia"
+                            }
+                        ]
+                },
+                {
+                    "id": 4,
+                    "name": "Khác",
+                    "specific" : [
+                            {
+                                "id": 1,
+                                "name": "Thiếu Nhi"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Không Lời"
+                            },
+                            {
+                                "id": 3,
+                                "name": "Beat"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Thể loại khác"
+                            },
+                            {
+                                "id": 5,
+                                "name": "Tui hát"
+                            }
+                        ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "PlayList",
+            "item": [
+                {
+                    "id": 1,
+                    "name": "Việt Nam",
+                    "specific" : [
+                            {
+                                "id": 1,
+                                "name": "Nhạc Trẻ"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Trữ Tình "
+                            },
+                            {
+                                "id": 3,
+                                "name": "Remix Việt"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Rap Việt "
+                            },
+                            {
+                                "id": 5,
+                                "name": "Tiền Chiến"
+                            }
+                        ]
+                },
+                {
+                    "id": 2,
+                    "name": "Âu Mỹ",
+                    "specific" : [
+                            {
+                                "id": 1,
+                                "name": "Pop"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Rock"
+                            },
+                            {
+                                "id": 3,
+                                "name": "Dance"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Country"
+                            },
+                            {
+                                "id": 5,
+                                "name": "Latin"
+                            }
+                        ]
+                },
+                {
+                    "id": 3,
+                    "name": "Châu Á",
+                    "specific" : [
+                            {
+                                "id": 1,
+                                "name": "Nhạc Hàn "
+                            },
+                            {
+                                "id": 2,
+                                "name": "Nhạc Hoa "
+                            },
+                            {
+                                "id": 3,
+                                "name": "Nhạc Thái"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Nhạc Campuchia"
+                            }
+                        ]
+                },
+                {
+                    "id": 4,
+                    "name": "Khác",
+                    "specific" : [
+                            {
+                                "id": 1,
+                                "name": "Thiếu Nhi"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Không Lời"
+                            },
+                            {
+                                "id": 3,
+                                "name": "Beat"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Thể loại khác"
+                            },
+                            {
+                                "id": 5,
+                                "name": "Tui hát"
+                            }
+                        ]
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Tuyển Tập",
+            "item": [
+                {
+                    "id": 1,
+                    "name": "THỂ LOẠI",
+                    "specific" : [
+                            {
+                                "id": 1,
+                                "name": "Nhạc Trẻ"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Trữ Tình "
+                            },
+                            {
+                                "id": 3,
+                                "name": "Pop"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Rap Việt "
+                            },
+                            {
+                                "id": 5,
+                                "name": "Tiền Chiến"
+                            }
+                        ]
+                },
+                {
+                    "id": 2,
+                    "name": "TÂM TRẠNG",
+                    "specific" : [
+                            {
+                                "id": 1,
+                                "name": "Pop"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Rock"
+                            },
+                            {
+                                "id": 3,
+                                "name": "Dance"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Country"
+                            },
+                            {
+                                "id": 5,
+                                "name": "Latin"
+                            }
+                        ]
+                },
+                {
+                    "id": 3,
+                    "name": "KHUNG CẢNH",
+                    "specific" : [
+                            {
+                                "id": 1,
+                                "name": "Nhạc Hàn "
+                            },
+                            {
+                                "id": 2,
+                                "name": "Nhạc Hoa "
+                            },
+                            {
+                                "id": 3,
+                                "name": "Nhạc Thái"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Nhạc Campuchia"
+                            }
+                        ]
+                },
+                {
+                    "id": 4,
+                    "name": "CHỦ ĐỀ",
+                    "specific" : [
+                            {
+                                "id": 1,
+                                "name": "Thiếu Nhi"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Không Lời"
+                            },
+                            {
+                                "id": 3,
+                                "name": "Beat"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Thể loại khác"
+                            },
+                            {
+                                "id": 5,
+                                "name": "Tui hát"
+                            }
+                        ]
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Video",
+            "item": [
+                {
+                    "id": 1,
+                    "name": "Việt Nam",
+                    "specific" : [
+                            {
+                                "id": 1,
+                                "name": "Nhạc Trẻ"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Trữ Tình "
+                            },
+                            {
+                                "id": 3,
+                                "name": "Remix Việt"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Rap Việt "
+                            },
+                            {
+                                "id": 5,
+                                "name": "Tiền Chiến"
+                            }
+                        ]
+                },
+                {
+                    "id": 2,
+                    "name": "Âu Mỹ",
+                    "specific" : [
+                            {
+                                "id": 1,
+                                "name": "Pop"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Rock"
+                            },
+                            {
+                                "id": 3,
+                                "name": "Dance"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Country"
+                            },
+                            {
+                                "id": 5,
+                                "name": "Latin"
+                            }
+                        ]
+                },
+                {
+                    "id": 3,
+                    "name": "Châu Á",
+                    "specific" : [
+                            {
+                                "id": 1,
+                                "name": "Nhạc Hàn "
+                            },
+                            {
+                                "id": 2,
+                                "name": "Nhạc Hoa "
+                            },
+                            {
+                                "id": 3,
+                                "name": "Nhạc Thái"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Nhạc Campuchia"
+                            }
+                        ]
+                },
+                {
+                    "id": 4,
+                    "name": "Karaoke",
+                    "specific" : [
+                            {
+                                "id": 1,
+                                "name": "Thiếu Nhi"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Không Lời"
+                            },
+                            {
+                                "id": 3,
+                                "name": "Beat"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Thể loại khác"
+                            },
+                            {
+                                "id": 5,
+                                "name": "Tui hát"
+                            }
+                        ]
+                }
+            ]
+        }
+    ]
+}
